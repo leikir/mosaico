@@ -2,7 +2,6 @@
   "name": "mosaico",
   "license": "GPL",
   "ignore": [
-    "**/.*",
     "node_modules",
     "bower_components",
     "test",
